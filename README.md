@@ -1,2 +1,3 @@
-# domizildigital.web
-This is the website for Domizil Digital
+# Contoso Katzenversicherung
+
+Contoso ist ein ausgedachtes Versicherungsunternehmen. Das Primärprodukt dieses Unternehmens sind Versicherungen für Hauskatzen. Der Preis für eine solche Versicherung wird gestaffelt nach Alter der zu versichernden Katze festgelegt. Jung Katzen, bis zu einem Alter von 4 Jahren, können für 30,00 € im Monat versichert werden. Ältere Katzen, die zwischen 4 und 8 Jahren alt sind, können zu einem Betrag von 50 € im Monat versichert werden. Katzen, die älter als 8 Jahre sind, können leider nicht mehr versichert werden. Bei jährlicher Zahlung kann ein Rabatt von 10% auf den Preis eingeräumt werden.
